@@ -5,4 +5,4 @@ E-Commerce-Back-End is a back end application used to help internet retailers na
 
 ## How it works
 E-Commerce-Back-End uses routes and models to allow the user to navigate their inventory. 
-![image}(https://github.com/Millmr/E-Commerce-Back-End/blob/main/images/insomnia%202.png)
+![image](https://github.com/Millmr/E-Commerce-Back-End/blob/main/images/insomnia%202.png)
